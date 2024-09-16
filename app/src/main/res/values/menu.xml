@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_exit">Exit</string>
+    <string name="add_group_menu">Add group</string>
+    <string name="export_to_file_menu">Export to file</string>
+    <string name="import_from_file_menu">Import from file</string>
+    <string name="remove_element_menu">Remove element</string>
+    <string name="add_element_menu">Add element</string>
+    <string name="remove_group_menu">Remove group</string>
+</resources>

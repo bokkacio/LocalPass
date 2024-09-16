@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="enter_password">Please, enter your password</string>
+    <string name="first_time_instruction">Welcome to SafeBox! Please enter and repeat your password. The password must contain more then five symbols</string>
+    <string name="empty_password">Please enter and repeat the password</string>
+    <string name="not_equal_passwords">Please repeat the password correctly</string>
+    <string name="too_small_password">The password must contain more then five symbols</string>
+    <string name="password_attempts_left">You can try to enter password %s times</string>
+    <string name="wrong_password">Wrong password. Please, try again</string>
+    <string name="empty_login_or_pass">Login and password can not be empty</string>
+    <string name="empty_group">Group title can not be empty</string>
+    <string name="remove_confirmation">Please, confirm your remove opportunity</string>
+</resources>
